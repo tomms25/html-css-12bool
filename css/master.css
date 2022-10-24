@@ -1,0 +1,16 @@
+[class*="col"] {
+    background-color: #006cfa;
+    border: solid 1px white;
+    min-height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+[class*="col"] h1{
+    color: white;
+    font-size: 15px;
+}
+
+
+
